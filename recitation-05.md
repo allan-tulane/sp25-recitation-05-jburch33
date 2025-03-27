@@ -46,6 +46,8 @@ the results as well.
 
 
 
+
+
 **1c)**
 
 Python uses a sorting algorithm called [*Timsort*](https://en.wikipedia.org/wiki/Timsort), designed by Tim Peters. Compare the fastest of your sorting implementations to the Python
